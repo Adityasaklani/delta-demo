@@ -5,4 +5,4 @@ This is a demo for Git &amp; Github class.
 Shraddha Didi
 
 # Student
-Aditya Saklani
+Aditya Saklani Deltaits
